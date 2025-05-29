@@ -1,0 +1,3 @@
+/home/user/VScode/memorypool/1.0/build/CMakeFiles/MemoryPoolProject.dir
+/home/user/VScode/memorypool/1.0/build/CMakeFiles/edit_cache.dir
+/home/user/VScode/memorypool/1.0/build/CMakeFiles/rebuild_cache.dir
